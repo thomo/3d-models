@@ -4,16 +4,22 @@ Collection of some of my 3D printing models, for some models the corresponding S
 
 ## Models
 
-- hammer holder - to "orgnanize" 1 or 2 hammers
+- hammer holder - to "organize" 1 or 2 hammers
+
   ![hammer holder (stl)](pic/hammer_holder.png "hammer holder stl")
+
   ![hammer holder](pic/hammer_holder.jpg "hammer holder")
 
 - cable comb - to organize your breadboard cables
+
   ![cable combs (stl)](pic/cablecomb.png "cable comps stl")
+
   ![cable combs](pic/cablecomb.jpg "cable comps")
 
 - shelf fence posts - to build a fence on a shelf
+
   ![shelf fence post (stl)](pic/shelffencepost.png "shelf fence post stl")
+
   ![shelf fence post](pic/shelffencepost.jpg "shelf fence post")
 
 ## License

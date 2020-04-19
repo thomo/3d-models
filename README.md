@@ -1,6 +1,6 @@
 # 3d-models
 
-Collection of some of my 3D printing models, for some models the corresponding STL files can be downloaded from [my MyMiniFactory account](https://www.myminifactory.com/users/thomo).
+Collection of some of my 3D printing models, for some models the corresponding STL files can be downloaded from [my MyMiniFactory account](https://www.myminifactory.com/users/thomo) and/or [my thingivers account](https://www.thingiverse.com/ThoMo_1969/designs).
 
 ## Models
 
@@ -22,7 +22,7 @@ Collection of some of my 3D printing models, for some models the corresponding S
 
   ![shelf fence post](pic/shelffencepost.jpg "shelf fence post")
 
-- ZigBee Case - A case to hold a CC2530+CC2591 board (see [blog post](http://www.handverdrahtet.org/2019/12/setting-up-zigbee2mqtt-gateway.html))
+- ZigBee Case - A case to hold a CC2530+CC2591 board (see [blog post](http://www.handverdrahtet.org/2019/12/setting-up-zigbee2mqtt-gateway.html) & [thingivers](https://www.thingiverse.com/thing:4019004))
 
   ![ZigBee case](pic/ZigBeeCase_1.jpg "ZigBee case")
 

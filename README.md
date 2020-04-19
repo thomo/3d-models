@@ -22,6 +22,16 @@ Collection of some of my 3D printing models, for some models the corresponding S
 
   ![shelf fence post](pic/shelffencepost.jpg "shelf fence post")
 
+- ZigBee Case - A case to hold a CC2530+CC2591 board (see [blog post](http://www.handverdrahtet.org/2019/12/setting-up-zigbee2mqtt-gateway.html))
+
+  ![ZigBee case](pic/ZigBeeCase_1.jpg "ZigBee case")
+
+  ![ZigBee case](pic/ZigBeeCase_2.jpg "ZigBee case")
+
+  ![ZigBee case - cap](pic/ZigBeeCase_Cap.png "ZigBee case cap")
+
+  ![ZigBee case - cup](pic/ZigBeeCase_Cup.png "ZigBee case cup")
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>

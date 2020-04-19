@@ -1,6 +1,6 @@
 # 3d-models
 
-Collection of some of my 3D printing models
+Collection of some of my 3D printing models, for some models the corresponding STL files can be downloaded from [my MyMiniFactory account](https://www.myminifactory.com/users/thomo).
 
 ## Models
 
